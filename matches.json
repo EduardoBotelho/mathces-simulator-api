@@ -4,7 +4,7 @@
     "descrição": "Eliminatórias Copa 2022",
   "local":{
   "nome" : "Maracana",
-    "imagem" : "Todo",
+    "imagem" : ""https://www.bandeirasnacionais.com/data/flags/normal/br.png"",
   },
   
   "mandante": {
@@ -16,7 +16,7 @@
   "visitante" : {
     "nome" : "Argentina",
     "força" : 5,
-    "imagem" : "Todo",
+    "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/ar.png",
   }
   }
 ]
